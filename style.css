@@ -1,0 +1,27 @@
+*{
+    background-color: rgb(235, 230, 223);
+    
+}
+.main{
+    border: 2px solid #000;
+    padding: 50px;
+    margin: 70px;
+    font-size: 18px;
+}
+td{
+    padding: 10px;
+}
+table{
+    border: 1px solid #000000;
+}
+.bold{
+    font-weight: bold;
+    
+}
+li{
+    margin-bottom: 30px;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
